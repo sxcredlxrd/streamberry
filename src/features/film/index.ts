@@ -1,0 +1,1 @@
+export { currentQuery } from "./model";
